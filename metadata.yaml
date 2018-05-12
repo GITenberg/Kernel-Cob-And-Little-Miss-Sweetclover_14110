@@ -21,6 +21,8 @@ creator:
     gutenberg_agent_id: '5379'
     url: http://www.gutenberg.org/2009/agents/5379
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14110#Kernel-Cob-And-Little-Miss-Sweetclover
 gutenberg_bookshelf: Children's Picture Books
 gutenberg_issued: '2004-11-23'
 gutenberg_type: Text
